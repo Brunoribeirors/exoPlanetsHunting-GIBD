@@ -35,4 +35,4 @@ hdfs dfs -put exoTest exoTest/exoTest.csv
 
 Análise de dados :
 è possível executar o script .py no diretamente no pyspark ou copiar e colar os comando do script e executar no console do pyspark.
-Também é possível carregar o notebook .ynp no Jupyter e executar o código
+Também é possível carregar o notebook .ipynb no Jupyter e executar o código
